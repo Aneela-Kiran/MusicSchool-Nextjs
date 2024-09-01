@@ -1,0 +1,107 @@
+
+{
+
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Master the basics of playing guitar with this beginner-friendly course. Perfect for aspiring guitarists of all levels.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/assets/music1.png"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "A complete guide to learning piano from scratch. Ideal for beginners wanting to explore music theory and practice.",
+      "price": 109.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/assets/guitar.png"
+    },
+    {
+      "id": 3,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn the fundamentals of drumming in this hands-on course. Develop your rhythm and drumming techniques quickly.",
+      "price": 79.99,
+      "instructor": "Bob Lee",
+      "isFeatured": true,
+      "image": "/assets/druming.png"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-for-beginners",
+      "description": "Start your journey to master the violin with this step-by-step guide. Perfect for beginners eager to learn music.",
+      "price": 59.99,
+      "instructor": "Emily Clarke",
+      "isFeatured": true,
+      "image": "/assets/music2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Explore the fundamentals of playing the flute with easy lessons. A great start for anyone interested in wind instruments.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/assets/piano.jpeg"
+    },
+  
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Master the basics of playing guitar with this beginner-friendly course. Perfect for aspiring guitarists of all levels.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "/assets/music1.png"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "A complete guide to learning piano from scratch. Ideal for beginners wanting to explore music theory and practice.",
+      "price": 109.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "/assets/guitar.png"
+    },
+    {
+      "id": 3,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn the fundamentals of drumming in this hands-on course. Develop your rhythm and drumming techniques quickly.",
+      "price": 79.99,
+      "instructor": "Bob Lee",
+      "isFeatured": false,
+      "image": "/assets/druming.png"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-for-beginners",
+      "description": "Start your journey to master the violin with this step-by-step guide. Perfect for beginners eager to learn music.",
+      "price": 59.99,
+      "instructor": "Emily Clarke",
+      "isFeatured": false,
+      "image": "/assets/music2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Explore the fundamentals of playing the flute with easy lessons. A great start for anyone interested in wind instruments.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/assets/piano.jpeg"
+    }
+  ]
+}
